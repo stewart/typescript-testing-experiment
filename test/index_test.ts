@@ -1,6 +1,4 @@
-"use strict";
-
-const add = src("index.js").add;
+import {add} from "../src/index.js";
 
 describe("Add", function() {
   it("adds two numbers", function() {
