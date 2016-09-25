@@ -1,0 +1,19 @@
+{
+  "name": "aspect",
+  "version": "1.0.0",
+  "description": "A TypeScript Test Bed",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stewart/aspect.git"
+  },
+  "author": "Andrew Stewart <andrew@stwrt.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stewart/aspect/issues"
+  },
+  "homepage": "https://github.com/stewart/aspect#readme"
+}
