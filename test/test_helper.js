@@ -2,6 +2,8 @@
 
 process.env.NODE_ENV = "test";
 
+require("mocha");
+
 const path = require("path");
 const chai = require("chai");
 

@@ -1,4 +1,4 @@
-import {add} from "../src/index.js";
+import add from "./../../src/utils/add";
 
 describe("Add", function() {
   it("adds two numbers", function() {

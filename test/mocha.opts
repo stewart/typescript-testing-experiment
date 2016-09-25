@@ -1,0 +1,4 @@
+--reporter dot
+--ui bdd
+test/test_helper.js
+dist/test/**/*_test.js
